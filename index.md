@@ -28,8 +28,7 @@ By the end of the course, students will be able to:
 - *Neural Engineering*, Eliasmith and Anderson, 2003: MIT Press.
 
 ## Lecture Schedule
-The course will be offered online. There will be pre-recorded lecture videos, as well as some live tutorials each week (recorded).
-- Tutorial time: TBD
+To be determined.
 
 ## Evaluation (tentative)
 The course will have several assignments, a midterm, and final exam. Assignments will involve programming in Python. The approximate grade breakdown is:
