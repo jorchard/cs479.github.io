@@ -6,20 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Winter 2020 | CS 489/698</title>
+<title>Winter 2022 | CS 479/679</title>
 <meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="Winter 2020" />
+<meta property="og:title" content="Winter 2022" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Neural Networks" />
 <meta property="og:description" content="Neural Networks" />
-<link rel="canonical" href="http://localhost:4000/cs489.github.io/" />
-<meta property="og:url" content="http://localhost:4000/cs489.github.io/" />
-<meta property="og:site_name" content="CS 489/698" />
+<link rel="canonical" href="http://localhost:4000/cs479.github.io/" />
+<meta property="og:url" content="http://localhost:4000/cs479.github.io/" />
+<meta property="og:site_name" content="CS 479/679" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/cs489.github.io/","headline":"Winter 2020","name":"CS 489/698","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/cs489.github.io/images/UWaterloo_logo.png"}},"description":"Neural Networks","@type":"WebSite","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/cs479.github.io/","headline":"Winter 2022","name":"CS 479/679","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/cs479.github.io/images/UWaterloo_logo.png"}},"description":"Neural Networks","@type":"WebSite","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/cs489.github.io/assets/css/style.css?v=189919780e8bccba9096e16abe121f7ba88029c9">
+    <link rel="stylesheet" href="/cs479.github.io/assets/css/style.css?v=3e3d29045f86c756eae783ea06ef4361a646bae0">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -27,17 +27,18 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="http://localhost:4000/cs489.github.io/">CS 489/698<br>Neural Networks</a></h1>
+        <h1><a href="http://localhost:4000/cs479.github.io/">CS 479/679<br>Neural Networks</a></h1>
         
         
-          <img src="/cs489.github.io/images/UWaterloo_logo.png" alt="Logo" />
+          <img src="/cs479.github.io/images/UWaterloo_logo.png" alt="Logo" />
         
 
 
         <a href="index.html">Welcome</a><br>
-        <a href="demos.html">Class Demonstrations</a><br>
-        <a target=_new href="http://piazza.com/uwaterloo.ca/winter2020/cs489698/home">Piazza</a>
-        <br><br>
+        <!-- a href="demos.html">Class Demonstrations</a><br-->
+        <!-- a href="lectures.html">Lecture Videos</a><br-->
+        <!--a target=_new href="http://piazza.com/uwaterloo.ca/winter2020/cs489698/home">Piazza</a>
+        <br--><br>
 
         
 
@@ -45,25 +46,26 @@
       <section>
 
       <div class="page">
-  <h1 class="page-title">Winter 2020
+  <h1 class="page-title">Winter 2022
 </h1>
-  <p>This course surveys how networks of neurons can perform computation. We will cover a variety of methods for designing and training neural networks. We will study some state-of-the-art methods for artificial neural networks, as well as some approaches that are guided by the biological constraints of the brain. We will look at both supervised and unsupervised learning. Other topics include population coding.</p>
+  <p>This course surveys how networks of neurons can perform computation. We will cover a variety of methods for designing and training neural networks. We will study some state-of-the-art methods for artificial neural networks, as well as some approaches that are guided by the biological constraints of the brain. We will look at both supervised and unsupervised learning, and methods to improve their performance.</p>
 
 <h2 id="instructor">Instructor</h2>
 <p><a href="http://cs.uwaterloo.ca/~jorchard">Jeff Orchard</a></p>
 
 <h2 id="suggested-prerequisites">Suggested Prerequisites</h2>
 <ul>
-  <li>one of (<a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS370">CS 370</a>, <a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS371">CS 371</a>/<a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-AMATH.html#AMATH242">AMATH 242</a>)</li>
+  <li>one of (<a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS370">CS 370</a>, <a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS371">CS 371</a>/<a href="http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-AMATH.html#AMATH242">AMATH 242</a>), <a href="https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT230">STAT 230</a></li>
 </ul>
 
 <h2 id="goals">Goals</h2>
 <p>By the end of the course, students will be able to:</p>
 <ul>
-  <li>Write a program to simulate the activity of a network of neurons</li>
-  <li>Formulate a neural learning method as a gradient-based optimization</li>
-  <li>Write a program (in Python) to implement a neural learning method from scratch</li>
-  <li>Use a software package and supplied data to train a neural network</li>
+  <li>Write a program to simulation the activity of a network of neurons</li>
+  <li>Formulate a neural learning method as gradient-based optimization</li>
+  <li>Derive a neural learning method based on energy minimization</li>
+  <li>Encode and decode data from the activity of a population of neurons</li>
+  <li>Evaluate implementations, designs, and optimization strategies</li>
   <li>Identify some commonalities between artificial neural networks and the brain</li>
 </ul>
 
@@ -76,19 +78,21 @@
 </ul>
 
 <h2 id="lecture-schedule">Lecture Schedule</h2>
+<p>The course will be offered online. There will be pre-recorded lecture videos, as well as some live tutorials each week (recorded).</p>
 <ul>
-  <li>MWF 11:30 - 12:20, STC 0060</li>
+  <li>Tutorial time: TBD</li>
 </ul>
 
-<h2 id="evaluation">Evaluation</h2>
+<h2 id="evaluation-tentative">Evaluation (tentative)</h2>
 <p>The course will have several assignments, a midterm, and final exam. Assignments will involve programming in Python. The approximate grade breakdown is:</p>
 <ul>
-  <li>50% Assignments</li>
-  <li>15% Midterm Exam</li>
-  <li>35% Final Assessment
+  <li>10% Quizes</li>
+  <li>30% Assignments</li>
+  <li>20% Midterm Exam</li>
+  <li>40% Final Assessment
     <ul>
-      <li>Final exam for those taking CS 489, or</li>
-      <li>Project for those taking CS 698</li>
+      <li>Final exam for those taking CS 479, or</li>
+      <li>Project for those taking CS 679</li>
     </ul>
   </li>
 </ul>
@@ -96,60 +100,51 @@
 <h2 id="topics">Topics</h2>
 
 <ol>
-  <li>Background (4 hours)
+  <li>Background
     <ul>
       <li>Neuron models, spiking vs. firing-rate</li>
       <li>Activation functions</li>
       <li>Synapses</li>
       <li>Networks of neurons</li>
-      <li>The Brain: vision, memory, motor control</li>
       <li>Learning: supervised/unsupervised/reinforcement</li>
     </ul>
   </li>
-  <li>Supervised Learning (8 hours)
+  <li>Supervised Learning
     <ul>
-      <li>Perceptron</li>
       <li>Train, validation, testing</li>
+      <li>Universal approximation theorem</li>
       <li>Cost functions</li>
-      <li>Gradient descent using finite-difference approximation</li>
-      <li>Error Backpropagation</li>
-      <li>Associative memory</li>
-      <li>Stochastic Gradient Descent (SGD)</li>
-      <li>Regularization, Momentum, Dropout</li>
+      <li>Gradient descent</li>
+      <li>Error backpropagation</li>
+      <li>Automatic differentiation</li>
+      <li>Overfitting and generalizability (regularization)</li>
+      <li>Optimization considerations (vanishing gradients, SGD)</li>
+      <li>Convolutiononal neural networks</li>
     </ul>
   </li>
-  <li>Unsupervised learning (5 hours)
+  <li>Unsupervised learning
     <ul>
       <li>Autoencoders</li>
-      <li>Network Energy</li>
-      <li>Restricted Boltzmann Machines (RBM)</li>
-      <li>Deep Belief Networks</li>
-      <li>Variational Autoencoders</li>
+      <li>Hopfield networks, Hopfield energy</li>
     </ul>
   </li>
-  <li>Population coding (6 hours)
+  <li>Recurrent Neural Networks
     <ul>
-      <li>Optimal linear decoding</li>
-      <li>Transformations and Dynamics</li>
-      <li>Neural integrators as working memory</li>
-      <li>Prescribed Error Sensitivity learning</li>
-    </ul>
-  </li>
-  <li>
-    <p>Convolutional Neural Networks (2 hours)</p>
-  </li>
-  <li>Recurrent Neural Networks (3 hours)
-    <ul>
-      <li>Backprop Through Time (BPTT)</li>
-      <li>Long Short-Term Memories (LSTM)</li>
+      <li>Backprop through time (BPTT)</li>
+      <li>Long short-term memories (LSTM)</li>
     </ul>
   </li>
   <li>Advanced Topics (time permitting)
     <ul>
-      <li>Adversarial Inputs</li>
-      <li>Predictive Coding</li>
-      <li>Equilibrium Propagation</li>
-      <li>Vector Embeddings (word2vec)</li>
+      <li>Adversarial attacks</li>
+      <li>Variational autoencoders</li>
+      <li>Vector embeddings</li>
+    </ul>
+  </li>
+  <li>Additional Topics (as time permits)
+    <ul>
+      <li>Biological backprop models</li>
+      <li>Population coding</li>
     </ul>
   </li>
 </ol>
@@ -164,7 +159,7 @@
         <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small>
       </footer>
     </div>
-    <script src="/cs489.github.io/assets/js/scale.fix.js"></script>
+    <script src="/cs479.github.io/assets/js/scale.fix.js"></script>
     
   </body>
 </html>

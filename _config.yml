@@ -1,6 +1,6 @@
-title: CS 489/698
+title: CS 479/679
 description: Neural Networks
 logo: /images/UWaterloo_logo.png
 theme: jekyll-theme-minimal
-baseurl: "cs489.github.io"
+baseurl: "/cs479.github.io"
 url: "https://jorchard.github.io"
