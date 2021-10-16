@@ -8,8 +8,9 @@ This course surveys how networks of neurons can perform computation. We will cov
 ## Instructor
 [Jeff Orchard](http://cs.uwaterloo.ca/~jorchard)
 
-## Suggested Prerequisites
-- one of ([CS 370](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS370), [CS 371](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS371)/[AMATH 242](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-AMATH.html#AMATH242)), [STAT 230](https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT230)
+## Prerequisites
+- one of ([CS 370](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS370), [CS 371](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS371)/[AMATH 242](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-AMATH.html#AMATH242))
+- one of ([STAT 206](https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT206) with a grade of at least 60%, [STAT 230](https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT230), [STAT 240](https://ucalendar.uwaterloo.ca/2021/COURSE/course-STAT.html#STAT240))
 
 ## Goals
 By the end of the course, students will be able to:
