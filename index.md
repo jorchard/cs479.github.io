@@ -41,14 +41,14 @@ The course will have several assignments, a midterm, and final exam. Assignments
 
 ## Topics
 
-1. Background
+1. **Background**
 - Neuron models, spiking vs. firing-rate
 - Activation functions
 - Synapses
 - Networks of neurons
 - Learning: supervised/unsupervised/reinforcement
 
-2. Supervised Learning
+2. **Supervised Learning**
 - Train, validation, testing
 - Universal approximation theorem
 - Cost functions
@@ -60,27 +60,27 @@ The course will have several assignments, a midterm, and final exam. Assignments
 - Convolutiononal neural networks
 - Batch normalization
 
-3. Unsupervised learning
+3. **Unsupervised Learning**
 - Autoencoders
 - Variational autoencoders
 - Hopfield networks, Hopfield energy
 
-4. Population Coding
+4. **Population Coding**
 - Optimal linear decoding
 - Transformations, dynamics
 - Online learning
 
-5. Recurrent Neural Networks
+5. **Recurrent Neural Networks**
 - Backprop through time (BPTT)
 - Long short-term memory (LSTM)
 - Legendre delay networks (time-permitting)
 
-6. Adversarial Attacks
+6. **Adversarial Attacks**
 - Targeted vs untargeted
 - FGSM
 - TRADES
 
-7. Advanced Topics (time permitting)
+7. **Advanced Topics** (time permitting)
 - Vector embeddings
 - GANs
 - Biological backprop models
