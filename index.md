@@ -58,22 +58,29 @@ The course will have several assignments, a midterm, and final exam. Assignments
 - Overfitting and generalizability (regularization)
 - Optimization considerations (vanishing gradients, SGD)
 - Convolutiononal neural networks
+- Batch normalization
 
 3. Unsupervised learning
 - Autoencoders
+- Variational autoencoders
 - Hopfield networks, Hopfield energy
 
-4. Recurrent Neural Networks
+4. Population Coding
+- Optimal linear decoding
+- Transformations, dynamics
+- Online learning
+
+5. Recurrent Neural Networks
 - Backprop through time (BPTT)
-- Long short-term memories (LSTM)
+- Long short-term memory (LSTM)
+- Legendre delay networks (time-permitting)
 
-5. Advanced Topics (time permitting)
-- Adversarial attacks
-- Variational autoencoders
+6. Adversarial Attacks
+- Targeted vs untargeted
+- FGSM
+- TRADES
+
+7. Advanced Topics (time permitting)
 - Vector embeddings
-
-6. Additional Topics (as time permits)
+- GANs
 - Biological backprop models
-- Population coding
-
-
