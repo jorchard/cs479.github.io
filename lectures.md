@@ -9,4 +9,5 @@ title: Lecture Videos
 
 ### Jan 10 - Jan 14: Synapses, Learning
 - [Synapses](https://youtu.be/tBqKqKEo0Hk){:target="_blank"}
-- *more to come on Jan 8*
+- [Learning Overview](https://youtu.be/Fval5RnSErU){:target="_blank"}
+- [Universal Approximation Theorem](https://youtu.be/QN6N1178cp0){:target="_blank"}
