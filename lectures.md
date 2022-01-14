@@ -11,3 +11,9 @@ title: Lecture Videos
 - [Synapses](https://youtu.be/tBqKqKEo0Hk){:target="_blank"}
 - [Learning Overview](https://youtu.be/Fval5RnSErU){:target="_blank"}
 - [Universal Approximation Theorem](https://youtu.be/QN6N1178cp0){:target="_blank"}
+
+## Jan 17 - Jan 21: Error Backpropagation
+- [Loss Functions](https://youtu.be/Gc5xyB8xCQY){:target="_blank"}
+- [Gradient Descent](https://youtu.be/oIkHlgqrRkc){:target="_blank"}
+- [Backpropagation](https://youtu.be/OTGZ-bsWggY){:target="_blank"}
+- 
