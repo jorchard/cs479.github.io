@@ -16,3 +16,7 @@ title: Lecture Videos
 - [Loss Functions](https://youtu.be/K6y7EWTU5DY){:target="_blank"}
 - [Gradient Descent](https://youtu.be/oIkHlgqrRkc){:target="_blank"}
 - [Backpropagation](https://youtu.be/OTGZ-bsWggY){:target="_blank"}
+
+### Jan 24 - 28: Automatic Differentiation
+- [Automatic Differentiation: Theory](https://youtu.be/JGflXZluIaA){:target="_blank"}
+- [Backprop with AD](https://youtu.be/C2bxsjvuVA4){:target="_blank"}
