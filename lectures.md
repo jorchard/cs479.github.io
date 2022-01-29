@@ -20,3 +20,8 @@ title: Lecture Videos
 ### Jan 24 - 28: Automatic Differentiation (week 3)
 - [Automatic Differentiation: Theory](https://youtu.be/JGflXZluIaA){:target="_blank"}
 - [Backprop with AD](https://youtu.be/C2bxsjvuVA4){:target="_blank"}
+
+## Jan 31 - Feb 4:
+- [PyTorch](https://youtu.be/ZaJrVpcM9Gs){:target="_blank"}
+- [Overfitting](https://youtu.be/nT5BICG7BPA){:target="_blank"}
+- [Combatting Overfitting](https://youtu.be/yQ8sTeZYFCE){:target="_blank"}
