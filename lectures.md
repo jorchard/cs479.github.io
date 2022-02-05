@@ -25,3 +25,8 @@ title: Lecture Videos
 - [PyTorch](https://youtu.be/ZaJrVpcM9Gs){:target="_blank"} ([notebook](https://www.dropbox.com/s/vtqeiasfboblv5r/PyTorch.ipynb?dl=0){:target="_blank"})
 - [Overfitting](https://youtu.be/nT5BICG7BPA){:target="_blank"}
 - [Combatting Overfitting](https://youtu.be/yQ8sTeZYFCE){:target="_blank"}
+
+### Feb 7 - Feb 11: Optimization, Autoencoders (week 5)
+- [Vanishing/Exploding Gradients](https://youtu.be/oiVKNjoOOvk){:target="_blank"}
+- [Enhancing Optimization](https://youtu.be/iS9M_qzyOqE){:target="_blank"}
+- [Autoencoders](https://youtu.be/AaSyR8Uwo-Q){:target="_blank"}
