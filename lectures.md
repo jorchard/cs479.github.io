@@ -27,6 +27,6 @@ title: Lecture Videos
 - [Combatting Overfitting](https://youtu.be/yQ8sTeZYFCE){:target="_blank"}
 
 ### Feb 7 - Feb 11: Optimization, Autoencoders (week 5)
-- [Vanishing/Exploding Gradients](https://youtu.be/oiVKNjoOOvk){:target="_blank"}
-- [Enhancing Optimization](https://youtu.be/iS9M_qzyOqE){:target="_blank"}
-- [Autoencoders](https://youtu.be/AaSyR8Uwo-Q){:target="_blank"}
+- [Vanishing/Exploding Gradients](https://youtu.be/oiVKNjoOOvk){:target="_blank"} (in-person Feb 7)
+- [Enhancing Optimization](https://youtu.be/iS9M_qzyOqE){:target="_blank"} (in-person Feb 9)
+- [Autoencoders](https://youtu.be/AaSyR8Uwo-Q){:target="_blank"} (no in-person lecture)
