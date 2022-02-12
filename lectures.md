@@ -30,3 +30,8 @@ title: Lecture Videos
 - [Vanishing/Exploding Gradients](https://youtu.be/oiVKNjoOOvk){:target="_blank"} (in-person Feb 7)
 - [Enhancing Optimization](https://youtu.be/iS9M_qzyOqE){:target="_blank"} (in-person Feb 9)
 - [Autoencoders](https://youtu.be/AaSyR8Uwo-Q){:target="_blank"} (no in-person lecture)
+
+### Feb 14 - Feb 18: Vision, and CNNs (week 6)
+- [Your Visual System](https://youtu.be/jFCOgJJcyKo){:target="_blank"} (in-person Feb 14)
+- [Convolutional Neural Networks (CNNs)](https://youtu.be/L76jRLVuFdA){:target="_blank"} (in-person Feb 18)
+- 
