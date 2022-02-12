@@ -34,4 +34,3 @@ title: Lecture Videos
 ### Feb 14 - Feb 18: Vision, and CNNs (week 6)
 - [Your Visual System](https://youtu.be/jFCOgJJcyKo){:target="_blank"} (in-person Feb 14)
 - [Convolutional Neural Networks (CNNs)](https://youtu.be/L76jRLVuFdA){:target="_blank"} (in-person Feb 18)
-- 
