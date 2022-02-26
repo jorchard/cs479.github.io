@@ -37,3 +37,5 @@ title: Lecture Videos
 
 ### Feb 28 - Mar 4: Batch Normalization, Hopfield Nets (week 7)
 - [Batch Normalization](https://youtu.be/_iEIaWEvdkQ){:target="_blank"}
+- [Hopfield Networks](https://youtu.be/81B-ESqgCjs){:target="_blank"}
+- [Variational Autoencoders](https://youtu.be/FSBLj74Qy4I){:target="_blank"}
