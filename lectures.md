@@ -36,6 +36,6 @@ title: Lecture Videos
 - [Convolutional Neural Networks (CNNs)](https://youtu.be/L76jRLVuFdA){:target="_blank"} (in-person Feb 18)
 
 ### Feb 28 - Mar 4: Batch Normalization, Hopfield Nets (week 7)
-- [Batch Normalization](https://youtu.be/_iEIaWEvdkQ){:target="_blank"}
-- [Hopfield Networks](https://youtu.be/81B-ESqgCjs){:target="_blank"}
-- [Variational Autoencoders](https://youtu.be/FSBLj74Qy4I){:target="_blank"}
+- [Batch Normalization](https://youtu.be/_iEIaWEvdkQ){:target="_blank"} (in-person)
+- [Hopfield Networks](https://youtu.be/81B-ESqgCjs){:target="_blank"} (in-person)
+- [Variational Autoencoders](https://youtu.be/FSBLj74Qy4I){:target="_blank"} (video lecture)
