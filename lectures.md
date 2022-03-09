@@ -39,3 +39,8 @@ title: Lecture Videos
 - [Batch Normalization](https://youtu.be/_iEIaWEvdkQ){:target="_blank"} (in-person Feb 28)
 - [Hopfield Networks](https://youtu.be/81B-ESqgCjs){:target="_blank"} (video lecture)
 - [Variational Autoencoders](https://youtu.be/FSBLj74Qy4I){:target="_blank"} (in-person Mar 4)
+
+### Mar 7 - Mar 11: Population Coding (week 8)
+- [Population Coding](https://uwaterloo.zoom.us/rec/share/hFCklnHXK_PGIQfQ7WF2MqmEwQbDtsCd7cKI1dnZPAxCdUzq1V1fnlgo3M7uJ4e1.p6728SL2IMWDBuDn?startTime=1646681481000){:target="_blank"}
+- [Transformations](https://uwaterloo.zoom.us/rec/share/Ou9gUzPhKkRftIgvymF9nN6pPq-o9Koo5XrhKCurMNAagcv2yDu0J84HIC-jNPDn.AW8AnxyFe67qXfaR?startTime=1646861069000){:target="_blank"}
+- Dynamics (in-person, Mar 11)
