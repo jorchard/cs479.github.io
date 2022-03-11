@@ -43,4 +43,5 @@ title: Lecture Videos
 ### Mar 7 - Mar 11: Population Coding (week 8)
 - [Population Coding](https://uwaterloo.zoom.us/rec/share/hFCklnHXK_PGIQfQ7WF2MqmEwQbDtsCd7cKI1dnZPAxCdUzq1V1fnlgo3M7uJ4e1.p6728SL2IMWDBuDn?startTime=1646681481000){:target="_blank"} (video lecture, Mar 7)
 - [Transformations](https://youtu.be/vhL3S67t4y0){:target="_blank"} (in-person, Mar 9)
-- Dynamics (in-person, Mar 11)
+- [Dynamics](https://uwaterloo.zoom.us/rec/share/64BNek4ezFBDsGTvz2x3kfTFx-bxX--vTKhMadCmjEUEpRtEErwtGyyYWMCsAoH9.i0GzDJwKULMkC-fb?startTime=1647027138000){:target="_blank"} (in-person, Mar 11)
+
