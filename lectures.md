@@ -45,3 +45,6 @@ title: Lecture Videos
 - [Transformations](https://youtu.be/vhL3S67t4y0){:target="_blank"} (in-person, Mar 9)
 - [Dynamics](https://uwaterloo.zoom.us/rec/share/64BNek4ezFBDsGTvz2x3kfTFx-bxX--vTKhMadCmjEUEpRtEErwtGyyYWMCsAoH9.i0GzDJwKULMkC-fb?startTime=1647027138000){:target="_blank"} (in-person, Mar 11)
 
+### Mar 14 - Mar18: Recurrent Neural Networks (week 9)
+- [RNNs and BPTT](https://youtu.be/96uvSp8lPTU){:target="_blank"} (in-person)
+- [Long Short-Term Memory (LSTM)](https://youtu.be/2nt284h6sYw){:target="_blank"} (in-person)
