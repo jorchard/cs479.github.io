@@ -48,4 +48,4 @@ title: Lecture Videos
 ### Mar 14 - Mar18: Recurrent Neural Networks (week 9)
 - [RNNs and BPTT](https://youtu.be/96uvSp8lPTU){:target="_blank"} (in-person)
 - [Long Short-Term Memory (LSTM)](https://youtu.be/2nt284h6sYw){:target="_blank"} (in-person)
-- Brain-Machine Interfaces, U-Session exercises (in-person)
+- Brain-Machine Interfaces (brief), U-Session exercises (in-person)
