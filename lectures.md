@@ -49,3 +49,8 @@ title: Lecture Videos
 - [RNNs and BPTT](https://youtu.be/96uvSp8lPTU){:target="_blank"} (in-person)
 - [Long Short-Term Memory (LSTM)](https://youtu.be/2nt284h6sYw){:target="_blank"} (in-person)
 - Brain-Machine Interfaces (brief), U-Session exercises (in-person)
+
+### Mar 21 - Mar 25: Adversarial Attacks (week 10)
+- [Adversarial Attacks](https://youtu.be/-9qWi4rPkdE){:target="_blank"} (in-person)
+- [Adversarial Defense](https://youtu.be/rPXE-lPWWLw){:target="_blank"} (in-person)
+- [GANs](https://youtu.be/sB3F5xcUtUE){:target="_blank"} (in-person)
