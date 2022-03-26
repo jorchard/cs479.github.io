@@ -54,3 +54,7 @@ title: Lecture Videos
 - [Adversarial Attacks](https://youtu.be/-9qWi4rPkdE){:target="_blank"} (in-person)
 - [Adversarial Defense](https://youtu.be/rPXE-lPWWLw){:target="_blank"} (in-person)
 - [GANs](https://youtu.be/sB3F5xcUtUE){:target="_blank"} (in-person)
+
+### Mar 28 - Apr 1: Advanced Topics (week 10)
+- [Vector Embeddings](https://youtu.be/nGZ9DmUnN3Y){:target="_blank"} (in-person)
+- [Predictive Coding](https://youtu.be/lWOxUpS_M_c){:target="_blank"} (in-person)
