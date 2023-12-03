@@ -37,7 +37,7 @@ The course will have several assignments, a midterm, and final exam. Assignments
 - 15% Midterm Exam
 - 40% Final Assessment
   - Final exam for those taking CS 479, or
-  - Project for those taking CS 679
+  - [Project](project.html) for those taking CS 679
 
 ## Topics
 
