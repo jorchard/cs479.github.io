@@ -15,7 +15,7 @@ In planning out your project, keep in mind that I expect at least a small amount
 
 Note that it is not sufficient to simply apply feed-forward neural-network learning to a new dataset. This is not a course on applied neural networks, so your project needs to contain an element of novelty in the learning method, or the architecture you choose. If you use a neural-network package (like PyTorch, Keras, or Tensorflow), then I would expect the architecture to be interesting, or you might use a cost function that includes multiple pieces, possibly involving different parts of your network.
 
-Here is the [project evaluation template](https://www.dropbox.com/s/t4zqerkrdkqru00/project_eval_template.pdf?dl=0){:target="_blank"} that I use when grading your project report.
+Here is the [project evaluation template](https://uofwaterloo-my.sharepoint.com/:b:/g/personal/jorchard_uwaterloo_ca/EenwFmnyvddLom7NeRdlFooB7ZPXoYiPrHQshY5_T4l3LA?e=6szDhn){:target="_blank"} that I use when grading your project report.
 
 ## Deadlines for the project
 
