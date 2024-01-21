@@ -9,6 +9,8 @@ title: Class Demonstrations
 
 ## Supervised Learning
 - [Universal Approximation Theorem](demos/Universal Approx.ipynb){:target="_blank"}
+
+
 <!---
 - [Gradient Descent](demos/Gradient Descent.html){:target="_blank"}
 - [Overfitting and Regularization](demos/Overfitting_and_Regularization.html){:target="_blank"}
@@ -31,5 +33,6 @@ title: Class Demonstrations
 
 ## Advanced Topics
 - [Word2Vec Demo](demos/word2vec.html){:target="_blank"}
+
 -->
 
