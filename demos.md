@@ -4,7 +4,7 @@ title: Class Demonstrations
 ---
 
 ## Background
-- [Neuron Models](demos/HH Neuron Model.html){:target="_blank"} ([ipynb](demos/HH Neuron Model.ipynb))
+- [Hodgkin-Huxley Neuron Model](demos/"HH Neuron Model.html"){:target="_blank"} ([ipynb](demos/HH Neuron Model.ipynb))
 - [Synapses](demos/Synapses.html){:target="_blank"} ([ipynb](demos/Synapses.ipynb))
 
 ## Supervised Learning
