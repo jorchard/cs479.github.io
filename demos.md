@@ -4,8 +4,8 @@ title: Class Demonstrations
 ---
 
 ## Background
-- [Neuron Models](demos/Neuron_Models.html){:target="_blank"}
-- [Synapses](demos/Synapses.html){:target="_blank"}
+- [Neuron Models](demos/HH Neuron Model.html){:target="_blank"} ([ipynb](demos/HH Neuron Model.ipynb))
+- [Synapses](demos/Synapses.html){:target="_blank"} ([ipynb](demos/Synapses.ipynb))
 
 ## Supervised Learning
 - [Universal Approximation Theorem](demos/Universal Approx.html){:target="_blank"} ([ipynb](demos/Universal Approx.ipynb))
