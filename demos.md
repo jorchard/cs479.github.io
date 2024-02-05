@@ -10,7 +10,7 @@ title: Class Demonstrations
 ## Supervised Learning
 - [Universal Approximation Theorem](demos/Universal Approx.html){:target="_blank"} ([ipynb](demos/Universal Approx.ipynb))
 - [Numerical Gradient Descent](demos/Numerical Gradient Descent brief.html){:target="_blank"}
-- [Overfitting and Regularization](demos/Overfitting.html){:target="_blank"}
+- [Overfitting](demos/Overfitting.html){:target="_blank"}
 
 
 <!---
