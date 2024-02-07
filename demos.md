@@ -11,11 +11,11 @@ title: Class Demonstrations
 - [Universal Approximation Theorem](demos/Universal Approx.html){:target="_blank"} ([ipynb](demos/Universal Approx.ipynb))
 - [Numerical Gradient Descent](demos/Numerical Gradient Descent brief.html){:target="_blank"}
 - [Overfitting](demos/Overfitting.html){:target="_blank"}
+- [Deep Networks](demos/vanishing.html){:target="_blank"}
 
 
 <!---
 - [Momentum](demos/Momentum.html){:target="_blank"}
-- [Vanishing/Exploding Gradients](demos/Vanishing Gradient.html){:target="_blank"}
 
 ## Unsupervised Learning
 - [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
