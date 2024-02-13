@@ -12,7 +12,7 @@ title: Class Demonstrations
 - [Numerical Gradient Descent](demos/Numerical Gradient Descent brief.html){:target="_blank"}
 - [Overfitting](demos/Overfitting.html){:target="_blank"}
 - [Deep Networks](demos/vanishing.html){:target="_blank"}
-
+- [Benefit of SGD](demos/sgd_soln.html){:target="_blank"}
 
 <!---
 - [Momentum](demos/Momentum.html){:target="_blank"}
