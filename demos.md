@@ -14,12 +14,13 @@ title: Class Demonstrations
 - [Deep Networks](demos/vanishing.html){:target="_blank"}
 - [Benefit of SGD](demos/sgd_soln.html){:target="_blank"}
 
+## Unsupervised Learning
+- [Autoencoders](demos/Autoencoder.html){:target="_blank"}
+
 <!---
 - [Momentum](demos/Momentum.html){:target="_blank"}
 
-## Unsupervised Learning
 - [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
-- [Autoencoders](demos/Autoencoder.html){:target="_blank"}
 - [Restricted Boltzmann Machines](demos/demo_RBM.html){:target="_blank"}
 - [Self Organizing Maps](demos/SOM_demo.html){:target="_blank"}
 
