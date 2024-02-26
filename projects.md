@@ -21,7 +21,7 @@ Here is the [project evaluation template](https://uofwaterloo-my.sharepoint.com/
 
 ### Proposal Due: 5:00pm Friday March 8
 
-The proposal is a short statement about what you plan to do for your project. It should be 1 to 2 pages in length, and outline what problem you want to solve, and/or what methods you want to use. Your project proposal will not be graded; its purpose is to make sure you are on the right track. If you are looking for ideas, here is a list of topics to get the creative juices flowing.
+The proposal is a short statement about what you plan to do for your project. It should be 1 to 2 pages in length, and outline what problem you want to solve, and/or what methods you want to use. Your project proposal will not be graded; its purpose is to make sure you are on the right track.
 
 ### Project Report: 5:00pm Tuesday April 16
 
