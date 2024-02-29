@@ -17,6 +17,9 @@ title: Class Demonstrations
 ## Unsupervised Learning
 - [Autoencoders](demos/Autoencoder.html){:target="_blank"}
 
+## Recurrent Neural Networks
+- [CNN Basics](demos/cnn_basics.html){:target="_blank"}
+  
 <!---
 - [Momentum](demos/Momentum.html){:target="_blank"}
 
