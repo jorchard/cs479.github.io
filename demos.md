@@ -19,11 +19,11 @@ title: Class Demonstrations
 
 ## Recurrent Neural Networks
 - [CNN Basics](demos/cnn_basics.html){:target="_blank"}
+- [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
   
 <!---
 - [Momentum](demos/Momentum.html){:target="_blank"}
 
-- [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
 - [Restricted Boltzmann Machines](demos/demo_RBM.html){:target="_blank"}
 - [Self Organizing Maps](demos/SOM_demo.html){:target="_blank"}
 
