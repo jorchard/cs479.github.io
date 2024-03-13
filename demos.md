@@ -20,7 +20,10 @@ title: Class Demonstrations
 ## Recurrent Neural Networks
 - [CNN Basics](demos/cnn_basics.html){:target="_blank"}
 - [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
-  
+
+## Vector Embeddings
+- [Word2Vec Demo](demos/word2vec.html){:target="_blank"}
+
 <!---
 - [Momentum](demos/Momentum.html){:target="_blank"}
 
@@ -36,7 +39,6 @@ title: Class Demonstrations
 - [Learning Decoders Demo](demos/Learning.html){:target="_blank"}
 
 ## Advanced Topics
-- [Word2Vec Demo](demos/word2vec.html){:target="_blank"}
 
 -->
 
