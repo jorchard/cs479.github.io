@@ -24,14 +24,15 @@ title: Class Demonstrations
 ## Vector Embeddings
 - [Word2Vec Demo](demos/word2vec.html){:target="_blank"}
 
+## Population Coding
+- [Population Coding/Decoding](demos/popcoding_torch.html){:target="_blank"}
+
 <!---
 - [Momentum](demos/Momentum.html){:target="_blank"}
 
 - [Restricted Boltzmann Machines](demos/demo_RBM.html){:target="_blank"}
 - [Self Organizing Maps](demos/SOM_demo.html){:target="_blank"}
 
-## Population Coding
-- [Population Coding/Decoding](demos/Population Coding.html){:target="_blank"}
 - [Vector Encoding](demos/Vector Encoding.html){:target="_blank"}
 - [Transformations](demos/Transformations.html){:target="_blank"}
 - [Integrator](demos/Integrator.html){:target="_blank"}
