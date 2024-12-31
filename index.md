@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Winter 2024
+title: Winter 2025
 ---
+
+This web page is a summary of the course. For the official details, please refer to its [listing in the Undergraduate Calendar](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/B1of5VXY2?bc=true&bcCurrent=CS479%20-%20Neural%20Networks&bcGroup=Computer%20Science%20(CS)&bcItemType=courses).
 
 This course surveys how networks of neurons can perform computation. We will cover a variety of methods for designing and training neural networks. We will study some state-of-the-art methods for artificial neural networks, as well as some approaches that are guided by the biological constraints of the brain. We will look at both supervised and unsupervised learning, and methods to improve their performance.
 
 ## Instructor
-[Jeff Orchard](http://cs.uwaterloo.ca/~jorchard)
+[Jeff Orchard](http://cs.uwaterloo.ca/~jorchard), and [Mohamed Hibat-Allah](https://uwaterloo.ca/applied-mathematics/profiles/mohamed-hibat-allah)
 
 ## Prerequisites
 - one of ([CS 370](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS370), [CS 371](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-CS.html#CS371)/[AMATH 242](http://www.ucalendar.uwaterloo.ca/1920/COURSE/course-AMATH.html#AMATH242))
@@ -40,14 +42,13 @@ The course will have several assignments, a midterm, and final exam. Assignments
 
 ## Topics
 
-1. **Background**
+**Neuron Models**
 - Neuron models, spiking vs. firing-rate
 - Activation functions
 - Synapses
 - Networks of neurons
-- Learning: supervised/unsupervised/reinforcement
 
-2. **Supervised Learning**
+**Supervised Learning**
 - Train, validation, testing
 - Universal approximation theorem
 - Cost functions
@@ -56,30 +57,34 @@ The course will have several assignments, a midterm, and final exam. Assignments
 - Automatic differentiation
 - Overfitting and generalizability (regularization)
 - Optimization considerations (vanishing gradients, SGD)
+
+**Vision**
+- Your Visual System
 - Convolutiononal neural networks
-- Batch normalization
 
-3. **Unsupervised Learning**
-- Autoencoders
-- Variational autoencoders
-- Hopfield networks, Hopfield energy
-
-4. **Population Coding**
-- Optimal linear decoding
-- Transformations, dynamics
-- Online learning
-
-5. **Recurrent Neural Networks**
+**Recurrent Neural Networks**
+- Hopfield Networks
 - Backprop through time (BPTT)
-- Long short-term memory (LSTM)
-- Legendre delay networks (time-permitting)
+- minGRU
 
-6. **Adversarial Attacks**
+**Unsupervised Learning**
+- Autoencoders
+- Vector embeddings
+
+**Advanced Autoencoders**
+- Restricted Boltzmann Machines (RBMs)
+- Diffusion networks
+- Variational autoencoders (VAEs)
+
+**Adversarial Attacks**
 - Targeted vs untargeted
 - FGSM
-- TRADES
+- Defences: TRADES
 
-7. **Advanced Topics** (time permitting)
-- Vector embeddings
-- GANs
+**Neural Engineering**
+- Optimal linear decoding
+- Transformations, dynamics
+
+**Advanced Topics** (time permitting)
 - Biological backprop models
+- GANs
