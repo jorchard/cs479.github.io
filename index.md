@@ -29,16 +29,19 @@ By the end of the course, students will be able to:
 - *Deep Learning*, Goodfellow, Bengio and Courville, 2016 ([link](http://www.deeplearningbook.org/))
 - *Neural Engineering*, Eliasmith and Anderson, 2003: MIT Press.
 
-## Lecture Schedule
-To be determined.
-
 ## Evaluation (tentative)
-The course will have several assignments, a midterm, and final exam. Assignments will involve programming in Python. The approximate grade breakdown is:
-- 45% Assignments
-- 15% Midterm Exam
-- 40% Final Assessment
-  - Final exam for those taking CS 479, or
-  - Project for those taking CS 679
+The course will have several assignments, a midterm, and final Assessment. Assignments will involve programming in Python.
+
+For **CS 479**, the grade breakdown is:
+- 30% Assignments
+- 20% Midterm Exam
+- 50% Final Exam
+
+For **CS 679**, the grade breakdown is:
+- 50% Assignments
+- 20% Midterm Exam
+- 30% Final Exam
+
 
 ## Topics
 
@@ -73,7 +76,7 @@ The course will have several assignments, a midterm, and final exam. Assignments
 
 **Advanced Autoencoders**
 - Restricted Boltzmann Machines (RBMs)
-- Diffusion networks
+- Residual connections, Diffusion networks
 - Variational autoencoders (VAEs)
 
 **Adversarial Attacks**
