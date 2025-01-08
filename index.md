@@ -40,7 +40,7 @@ For **CS 479**, the grade breakdown is:
 For **CS 679**, the grade breakdown is:
 - 50% Assignments
 - 20% Midterm Exam
-- 30% Final Exam
+- 30% Final Project
 
 
 ## Topics
