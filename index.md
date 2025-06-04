@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS 479/679: Neural Networks
+title: Overview
 ---
 
 This web page is a summary of the course. For the official details, please refer to its [listing in the Undergraduate Calendar](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/B1of5VXY2?bc=true&bcCurrent=CS479%20-%20Neural%20Networks&bcGroup=Computer%20Science%20(CS)&bcItemType=courses).
